@@ -1,0 +1,27 @@
+{
+  "station": {
+    "id": "DAIKIBO_LINE2_002",
+    "site": "Osaka Manufacturing Plant - Line 2"
+  },
+  "sensors": {
+    "temperature": {
+      "reading": 78.2,
+      "units": "celsius",
+      "recorded_at": "2025-07-01T10:31:00+09:00"
+    },
+    "pressure": {
+      "reading": 15.3,
+      "units": "bar",
+      "recorded_at": "2025-07-01T10:31:00+09:00"
+    },
+    "flow_rate": {
+      "reading": 245.8,
+      "units": "l/min",
+      "recorded_at": "2025-07-01T10:31:01+09:00"
+    }
+  },
+  "session": {
+    "id": "SESSION_20250701_002",
+    "reliability": 0.92
+  }
+}
