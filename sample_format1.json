@@ -1,0 +1,30 @@
+{
+  "device_info": {
+    "device_id": "DAIKIBO_LINE1_001",
+    "location": "Tokyo Manufacturing Plant - Line 1"
+  },
+  "measurements": [
+    {
+      "sensor_type": "temperature",
+      "value": 85.5,
+      "unit": "celsius",
+      "timestamp": "2025-07-01T10:30:00Z"
+    },
+    {
+      "sensor_type": "pressure",
+      "value": 12.7,
+      "unit": "bar",
+      "timestamp": "2025-07-01T10:30:00Z"
+    },
+    {
+      "sensor_type": "vibration",
+      "value": 0.05,
+      "unit": "mm/s",
+      "timestamp": "2025-07-01T10:30:01Z"
+    }
+  ],
+  "metadata": {
+    "batch_id": "BATCH_20250701_001",
+    "quality_score": 0.95
+  }
+}
